@@ -1,0 +1,9 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+websockets==17.0.1
+python-multipart==0.0.32
+Pillow==12.3.0
+qrcode==8.2
+pyngrok==8.1.2
+numpy>=1.26.0
+python-dotenv>=1.0.0
